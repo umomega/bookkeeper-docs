@@ -6,7 +6,7 @@ has_children: true
 permalink: /users-guide
 ---
 
-![Overview](/assets/images/overview.png)
+![Overview]({{ site.baseurl }}/assets/images/overview.png)
 
 # User's Guide
 
