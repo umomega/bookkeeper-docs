@@ -23,25 +23,25 @@ You can create, update and delete clients.
 ## Listing Clients
 To list all available clients go to *Clients* from the main navigation menu.
 
-![Clients List]({{ site.baseurl }}/assets/images/clients-list.png)
+![Clients List]({{ "/assets/images/clients-list.png" | absolute_url }})
 
 ## Creating Clients
 To create a client go to *Clients* from the main navigation menu and use the **New Client** button.
 
-![Create Client]({{ site.baseurl }}/assets/images/create-client.png)
+![Create Client]({{ "/assets/images/create-client.png" | absolute_url }})
 
 ## Updating Clients
 To update a client select a client from the clients list. By default the client shows jobs and people that are assigned to them. The information about the client can be accessed from the **Client** tab.
 
-![People For Clients]({{ site.baseurl }}/assets/images/client-people-edit.png)
-![Update Client]({{ site.baseurl }}/assets/images/update-client.png)
+![People For Clients]({{ "/assets/images/client-people-edit.png" | absolute_url }})
+![Update Client]({{ "/assets/images/update-client.png" | absolute_url }})
 
 ## Deleting Clients
 To delete a client use the dropdown options menu from the clients list.
 
-![Delete Client]({{ site.baseurl }}/assets/images/clients-list.png)
+![Delete Client]({{ "/assets/images/clients-list.png" | absolute_url }})
 
 ## Exporting Clients
 To export clients use the dropdown export menu from the clients list.
 
-![Export Clients]({{ site.baseurl }}/assets/images/export-transactions.png)
+![Export Clients]({{ "/assets/images/export-transactions.png" | absolute_url }})

@@ -23,19 +23,19 @@ You can create, update and delete users.
 ## Listing Users
 To list all available users go to *Users* from the main navigation menu.
 
-![Users User]({{ site.baseurl }}/assets/images/users-list.png)
+![Users User]({{ "/assets/images/users-list.png" | absolute_url }})
 
 ## Creating Users
 To create a user go to *Users* from the main navigation menu and use the **New User** button.
 
-![Create User]({{ site.baseurl }}/assets/images/create-user.png)
+![Create User]({{ "/assets/images/create-user.png" | absolute_url }})
 
 ## Updating Users
 To update the user select a user from the users list. You may also change a user's password from the **Password** tab.
-![Update User]({{ site.baseurl }}/assets/images/update-user.png)
-![Update User Password]({{ site.baseurl }}/assets/images/update-user-password.png)
+![Update User]({{ "/assets/images/update-user.png" | absolute_url }})
+![Update User Password]({{ "/assets/images/update-user-password.png" | absolute_url }})
 
 ## Deleting Users
 To delete a user use the dropdown options menu from the users list.
 
-![Delete User]({{ site.baseurl }}/assets/images/delete-user.png)
+![Delete User]({{ "/assets/images/delete-user.png" | absolute_url }})
