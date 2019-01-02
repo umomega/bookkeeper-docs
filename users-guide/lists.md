@@ -23,18 +23,18 @@ You can create, update and delete lists.
 ## Listing Lists
 To list all available lists go to *Lists* from the main navigation menu.
 
-![Lists List]({{ site.baseurl }}/assets/images/lists-list.png)
+![Lists List]({{ "/assets/images/lists-list.png" | absolute_url }})
 
 ## Creating Lists
 To create a list go to *Lists* from the main navigation menu and use the **New List** button.
 
-![Create List]({{ site.baseurl }}/assets/images/create-list.png)
+![Create List]({{ "/assets/images/create-list.png" | absolute_url }})
 
 ## Updating Lists
 To update the list select a list from the lists list. By default the list shows people that are assigned to it. The information about the list can be accessed from the **List** tab.
-![Update List]({{ site.baseurl }}/assets/images/update-list.png)
+![Update List]({{ "/assets/images/update-list.png" | absolute_url }})
 
 ## Deleting Lists
 To delete a list use the dropdown options menu from the lists list.
 
-![Delete List]({{ site.baseurl }}/assets/images/delete-list.png)
+![Delete List]({{ "/assets/images/delete-list.png" | absolute_url }})

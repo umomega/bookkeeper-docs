@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-![Overview]({{ site.baseurl }}/assets/images/overview.png)
+![Overview]({{ "/assets/images/overview.png" | absolute_url }})
 
 # Laravel-powered Finance Tracker and CRM
 {: .fs-9 }
