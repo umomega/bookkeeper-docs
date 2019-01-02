@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Documentation for Bookkeeper, a Laravel-powered Finance Tracker and CRM.
 baseurl: "/bookkeeper-docs" # the subpath of your site, e.g. /blog
 url: "https://umomega.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Hyleeh
+github_username:  Hyleeh
 
 # Build settings
 markdown: kramdown
