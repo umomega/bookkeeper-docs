@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-![Overview](/assets/images/overview.png)
+![Overview]({{ site.baseurl }}/assets/images/overview.png)
 
 # Laravel-powered Finance Tracker and CRM
 {: .fs-9 }
