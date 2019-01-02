@@ -35,14 +35,14 @@ Bookkeeper's requirements are the same with [Laravel 5.7 (or higher) requirement
 ### Installation
 Installing Bookkeeper is fairly simple thanks to it's pretty installer and involves only extracting a ZIP package and creating a database.
 
-![Pretty Installer](/assets/images/install-1.png)
+![Pretty Installer]({{ "/assets/images/install-1.png" | absolute_url }})
 
 1. **Just download the latest release from [GitHub](https://github.com/umomega/bookkeeper/releases) and extract the package to your server.**  
 Since Bookkeeper is structured in the same way of a Laravel application your server's public directory should point to the `public` directory.  
 <small>It is possible to change the setting for the public directory inside the `.env` file.</small>
 2. **Create a new MySQL database.**  
 Bookkeeper will ask for the name, host, port, username, and password for the database during installation.  
-![Database Options](/assets/images/install-2.png)  
+![Database Options]({{ "/assets/images/install-2.png" | absolute_url }})  
 <small>For other database drivers you will have to configure the `config/database.php`, and `.env` files.
 3. **Just run the installer by pointing your browser to the root URL of the setup.**  
 Bookkeeper will do the rest.
